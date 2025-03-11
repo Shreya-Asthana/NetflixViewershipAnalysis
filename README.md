@@ -30,6 +30,8 @@ Key insights obtained from the analysis:
 - Jupyter Notebook (analysis.ipynb): Explore the data processing, visualization, and insights.
 
 - Power BI Dashboard (dashboard.pbix): Interact with visualizations to deep dive into the data.
+  ![image](https://github.com/user-attachments/assets/24bdd1d9-07d9-4b46-b9df-e22af1a24366)
+
 
 - Presentation (knowledge_presentation.pptx): Summary of key findings.
 
